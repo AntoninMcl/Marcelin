@@ -1,7 +1,7 @@
 USE location_vehicule;
 GO
 
-
+ 
 
 
 -- Pour inserer categorie dans la table : 
