@@ -1,0 +1,15 @@
+VEHICULE (id, marque, modele, type, categorie, carburant, couleur, image, prix)
+
+
+
+
+MARQUE (voiture)
+COULEUR
+MODELE
+TYPE (motos, scoot, camion)
+CATEGORIE (berline, 4x4,)
+CARBURANT
+IMAGE
+RESERVER
+CLIENT
+CONCESIONNAIRE
